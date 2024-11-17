@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/vini/wall/wallhaven-6d8p9w_1280x800.png' 
